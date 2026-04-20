@@ -66,8 +66,6 @@ Point Claude Design at this repository during design system setup. It will extra
 - Component and aesthetic guidance from `guidelines/brand-guidelines.md`
 - Visual direction from `guidelines/visual-direction.md`
 
-After setup, test with: *"Create a landing page for Pay by Bank targeting iGaming operators."*
-
 ---
 
 ## Maintained by
