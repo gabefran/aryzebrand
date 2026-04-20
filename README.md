@@ -1,6 +1,6 @@
 # Aryze Brand Repository
 
-This repository contains all brand assets, design tokens, and guidelines for Aryze ApS — a Danish B2B fintech company building Pay by Bank (A2A) payment infrastructure, Stablecoins as a Service, On-Chain FX, and Cross-Chain Settlement products.
+This repository contains all brand assets, design tokens, and guidelines for Aryze ApS — a Danish B2B fintech company building Pay by Bank (A2A) payment infrastructure
 
 ---
 
