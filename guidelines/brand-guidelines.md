@@ -2,7 +2,7 @@
 
 ## Company Overview
 
-Aryze is a Danish B2B fintech company building core payment infrastructure for the next generation of money movement. Products include Pay by Bank (A2A payment infrastructure), Stablecoins as a Service, On-Chain FX, and Cross-Chain Settlement.
+Aryze is a Danish B2B fintech company building core payment infrastructure for the next generation of money movement
 
 Headquartered in Copenhagen. Enterprise-grade. Built on Mastercard payment rails.
 
